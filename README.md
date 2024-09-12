@@ -25,12 +25,13 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 
 
 ## ⚙️ Tech Stack
-Next.js
-Appwrite
-Typescript
-TailwindCSS
-ShadCN
-Twilio
+
+👉 Next.js
+👉 TailwindCSS
+👉 Typescript
+👉 Appwrite
+👉 Twilio
+👉 ShadCN
 
 ## Features 
 
