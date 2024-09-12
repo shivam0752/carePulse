@@ -50,9 +50,9 @@ Twilio
 
 👉 File Upload Using Appwrite Storage: Users can upload and store files securely within the app using Appwrite storage services.
 
-👉 Manage and Track Application Performance Using Sentry: The application uses Sentry to monitor and track its performance and detect any errors.
+👉 Manage and Track Application Performance Using Sentry: The application uses Sentry to monitor and track its performance and detect any errors and many more, including code architecture and reusability
 
-and many more, including code architecture and reusability
+#TO ACCESS ADMIN SIDE -> Click on admin and enter passcode : 111111
 ## Deploy on Vercel
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
